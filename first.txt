@@ -5,3 +5,23 @@ This is second line adding to the exisiting file
 This is the file added to the branch
 
 This is the another command added the first.txt
+
+This is the another line added to the first.txt
+
+This is bound to cause troble
+
+This is the we have i want to create troble in this file here file to the first.txt
+
+This is the we have done some diffrent changes are done in the same line file to the first.txt
+
+This is the new line added first time in the file 
+
+This is the second time i have done changes on the same line in the file 
+
+This is the i have done the third time on the same file for checking the changes 
+
+Done changs for the stashing file
+
+Added the one more line for the stash
+
+Added the one more line to the general file
