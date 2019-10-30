@@ -36,4 +36,8 @@ After all the changes done
 
 After some more changes done 
 
+<<<<<<< Updated upstream
 I am adding general data to the file
+=======
+One more line added for the git to check the stashing
+>>>>>>> Stashed changes
