@@ -7,3 +7,6 @@ After data added second time
 New line added
 
 Added data using master branch
+
+I have added data in updates branch
+
