@@ -1,7 +1,7 @@
 four.txt is a new file created using GITHUB
 
-Using the branch1 in the GITHUB.
-
 Create a branch in GITHUB branch3
 
 edited the file in GITHUB.
+
+Deleted on line from the file and adding new data to the file.
