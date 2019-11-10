@@ -1,2 +1,0 @@
-I think everyone knows  about what is git and its use case in life of developer and devops engineers. So today we will learn in this tutorial what is git and its terminology in a practical manner with example. First of all, we should be aware about what is git and why developers use it during coding?
-But before doing all these stuffs we should be aware about a basic term that is VCS.
