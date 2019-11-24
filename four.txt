@@ -4,4 +4,4 @@ Create a branch in GITHUB branch3
 
 Deleted some data from the file and added new data to the file.
 
-conflit i have added data on the same line to get conflit
+Adding data on the master branch
