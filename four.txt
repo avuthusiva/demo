@@ -3,3 +3,5 @@ four.txt is a new file created using GITHUB
 Create a branch in GITHUB branch3
 
 Deleted some data from the file and added new data to the file.
+
+conflit is added in the file
