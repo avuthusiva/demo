@@ -4,7 +4,4 @@ Create a branch in GITHUB branch3
 
 Deleted some data from the file and added new data to the file.
 
-Adding data on the master branch
-
-Added a line to the four.txt file
-
+Doing the changeds using GITHUB
